@@ -4,12 +4,12 @@
     <color name="abc_search_url_text_normal">#ff7fa87f</color>
     <color name="abc_search_url_text_pressed">@android:color/black</color>
     <color name="abc_search_url_text_selected">@android:color/black</color>
-    <color name="accent">#ff4ebffa</color>
+    <color name="accent">#ff3298e4</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
-    <color name="background_material_dark">@color/material_grey_850</color>
+    <color name="background_material_dark">#ff232c3b</color>
     <color name="background_material_light">@color/material_grey_50</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
@@ -24,8 +24,8 @@
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
     <color name="darkGrey">#ff555555</color>
-    <color name="darkStatusBarBackground">#ff333333</color>
-    <color name="darkToolbarBackground">#ff222222</color>
+    <color name="darkStatusBarBackground">#ff2b3443</color>
+    <color name="darkToolbarBackground">#ff2b3443</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
     <color name="design_default_color_primary">#ff3f51b5</color>
     <color name="design_default_color_primary_dark">#ff303f9f</color>
