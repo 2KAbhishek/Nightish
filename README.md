@@ -1,5 +1,3 @@
-<div align="center">
-
 # Nightish
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/Nightish?style=plastic&color=0f0&label=Size)
@@ -12,13 +10,11 @@
 
 Dark substratum theme for android apps.
 
-</div>
 
 ## Supported Apps
 
 * [KDE Connect](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp)
 
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 
 ### More Info
 
