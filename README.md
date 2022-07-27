@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/Nightish">BareMinimum</a></h1>
+<h1><a href="https://2kabhishek.github.io/Nightish">Nightish</a></h1>
 
 <a href="https://github.com/2KAbhishek/Nightish/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/2kabhishek/Nightish?style=flat&color=eee&label="> </a>
